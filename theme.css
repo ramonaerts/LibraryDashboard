@@ -1,0 +1,35 @@
+.btn-primary{
+    color: White;
+    background-color: #0F238C;
+    border-color: #0F238C;
+}
+
+.btn-file{
+    color: Black;
+}
+
+.h1 {
+    color: #0F238C;
+}
+
+#wrapper {
+    width: 1205px;
+    /*border: 1px solid black;*/
+    overflow: hidden; /* add this to contain floated children */
+    margin: 0 auto;
+}
+#piechart {
+    width: 600px;
+    height: 500px;
+    float:left; /* add this */
+    /*border: 1px solid red;*/
+}
+#piechart2 {
+    width: 600px;
+    height: 500px;
+    /*border: 1px solid green;*/
+    float: left; /* add this */
+}
+#ColChart1 {
+    margin: auto;
+}
